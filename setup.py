@@ -42,6 +42,6 @@ REQUIREMENTS = [
 setup(
     name="auto_android",
     version="0.2",
-    long_description="Base android automation class",
+    long_description="Base android automation class.",
     install_requires=REQUIREMENTS,
 )
